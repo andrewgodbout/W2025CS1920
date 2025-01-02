@@ -1,0 +1,7 @@
+Monday,-12,sunny
+Tuesday,8,rainy
+Wednesday,7,cloudy
+Thursday,13,windy
+Friday,0,hail
+Saturday,-2,snowy
+Sunday,2,foggy
